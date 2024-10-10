@@ -213,9 +213,9 @@
 ---
 
 ## 📈 **GitHub Stats**
-![Sabee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabeekhan99&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabeekhan99&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=sabeekhan99&color=blue)
+![Sabee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabeeKhann&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabeeKhann&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=SabeeKhann&color=blue)
 
 ---
 
