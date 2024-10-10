@@ -107,9 +107,12 @@ My expertise empowers businesses to streamline operations, optimize project cycl
 ## 🚀 **Professional Experience**
 
 ### **🌟 Technical Project Manager at Septem Systems (Jan 2024 - Present)**
+
 - **Technologies**: ![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift&logoColor=white)
-- Led multiple teams in high-impact projects across ERP, SaaS, and IoT solutions.
-- Streamlined cross-team collaboration, integrating ERP systems such as **SAP B1, Odoo**, and **Microsoft Dynamics**.
+- **AI, IoT, and Machine Learning**: Spearheaded projects involving AI and IoT integrations, delivering intelligent and automated solutions for real-world problems. Enabled predictive analytics through **machine learning algorithms**.
+- **Web & Mobile Application Development**: Successfully led cross-functional teams in building scalable web applications using **NextJS**, **MongoDB**, and **AWS**. Directed mobile app development with **Kotlin** and **Swift** for seamless cross-platform user experiences.
+- **ERP Systems**: Streamlined cross-team collaboration by integrating ERP systems such as **SAP B1, Odoo**, and **Microsoft Dynamics** for enhanced operational efficiency.
+- Managed high-impact projects delivering **SaaS** solutions to clients across industries, optimizing **IoT** and AI-based features to drive innovation and business value.
 
 ---
 
