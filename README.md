@@ -1,6 +1,6 @@
 # Hi, I'm Sabee Ur Rehman Khan 👋
 
-**🎯 Technical Project Manager | Agile Specialist | Product & Tech Operations Manager**
+**🎯 Technical Project Manager | Agile Specialist | Product & Tech Operations Lead**
 
 🌟 I am a **PMI-ACP® certified** Technical Project Manager with extensive experience in **AI, Machine Learning, IoT, SaaS**, and **web/mobile application development**. I thrive in leading cross-functional teams, optimizing project cycles, and delivering innovative, client-first solutions. My expertise in **ERP integrations** (SAP B1, Odoo, Microsoft Dynamics) helps businesses streamline operations and achieve sustainable growth.
 
