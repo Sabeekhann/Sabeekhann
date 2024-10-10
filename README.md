@@ -212,13 +212,6 @@
 
 ---
 
-## 📈 **GitHub Stats**
-![Sabee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabeeKhann&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabeeKhann&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=SabeeKhann&color=blue)
-
----
-
 ## 💬 **Get in Touch**
 - **Email**: [sabeekhan99@gmail.com](mailto:sabeekhan99@gmail.com)
 - **LinkedIn**: [Sabee Ur Rehman Khan](https://linkedin.com/in/sabee-ur-rehman)
@@ -230,7 +223,7 @@ I'm passionate about merging technology with impactful projects, particularly th
 
 ---
 
-## 🎯 **Goals for 2024**
+## 🎯 **Goals for 2025**
 - 🚀 Lead innovative SaaS solutions with AI and IoT integrations.
 - 🏆 Earn the **PMP® certification** to further validate my project management skills.
 - 📈 Contribute more to open-source projects and explore blockchain technologies.
