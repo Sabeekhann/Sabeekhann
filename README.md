@@ -17,7 +17,45 @@ I specialize in driving innovation through **AI, Machine Learning, IoT**, and **
 
 My expertise empowers businesses to streamline operations, optimize project cycles, and achieve sustainable growth. I thrive in fast-paced environments, transforming complex challenges into scalable, client-first solutions that align with business goals.
 
----
+---  
+## 🌟 **Featured Clients**
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; padding: 20px;">
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/High%20Courts%20of%20Pakistan-darkgreen?style=for-the-badge" alt="High Courts of Pakistan" style="margin: 10px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Pakistan%20Army-darkgreen?style=for-the-badge" alt="Pakistan Army" style="margin: 10px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Uniworth%20Black-black?style=for-the-badge" alt="Uniworth Black" style="margin: 10px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Alfatah-blue?style=for-the-badge" alt="Alfatah" style="margin: 10px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Pepsi%20Pakistan-blue?style=for-the-badge" alt="Pepsi Pakistan" style="margin: 10px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/UNODC-blue?style=for-the-badge" alt="UNODC" style="margin: 10px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/UNDP-darkblue?style=for-the-badge" alt="UNDP" style="margin: 10px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Interior%20Ministry%20of%20Pakistan-darkgreen?style=for-the-badge" alt="Interior Ministry of Pakistan" style="margin: 10px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/BigScoots-blue?style=for-the-badge" alt="BigScoots" style="margin: 10px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/ESG%20Tree-green?style=for-the-badge" alt="ESG Tree" style="margin: 10px;">
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/UltaHost-purple?style=for-the-badge" alt="Ulta Host" style="margin: 10px;">
+  </a>
+</div>
+
+---  
 
 ### 🏆 **Achievements**:
 - **Top Performer** Q2 2023 (HexaClicks)
@@ -223,6 +261,33 @@ My expertise empowers businesses to streamline operations, optimize project cycl
 ### **20. Yahuda**
 - **Role**: Real Estate Marketplace Management
 - **Technologies**: ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+
+### **21. CAMS High Court Copy Management System**
+- **Role**: Project Manager
+- **Description**: Managed the Copy Automation & Management System (CAMS) for High Courts of Pakistan, deployed across 18 districts to streamline court documentation processes.
+- **Technologies**: ![NodeJs](https://img.shields.io/badge/NodeJs-green?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### **22. Listen App - AI Psychologist**
+- **Role**: Project Manager
+- **Description**: Developed an AI-powered psychological assistance app that offers personalized mental health insights and counseling via NLP-based interactions.
+- **Technologies**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-blue?style=for-the-badge&logo=ai&logoColor=white)
+
+### **23. Royalty Radar**
+- **Role**: Technical Project Manager
+- **Description**: Royalty Radar manages royalties for artists and labels, streamlining the distribution of earnings from various platforms.
+- **Technologies**: ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### **24. PSL Season V**
+- **Role**: Project Manager
+- **Description**: Managed branding and event-related strategies for the Pakistan Super League (PSL) Season V.
+- **Technologies**: ![Branding](https://img.shields.io/badge/Branding-blue?style=for-the-badge&logo=brand&logoColor=white) ![EventManagement](https://img.shields.io/badge/Event_Management-green?style=for-the-badge&logo=eventbrite&logoColor=white)
+
+### **25. SLA AAG 2020 - British American Tobacco (BAT)**
+- **Role**: Project Manager
+- **Description**: Managed the Service Level Agreement (SLA) project for BAT’s AAG 2020 initiative.
+- **Technologies**: ![Branding](https://img.shields.io/badge/Branding-blue?style=for-the-badge&logo=brand&logoColor=white) ![BAT](https://img.shields.io/badge/BAT-blue?style=for-the-badge&logo=british-american-tobacco&logoColor=white)
+
+
 ---
 
 ## 📜 **Certifications**
@@ -255,3 +320,62 @@ I'm passionate about merging technology with impactful projects, particularly th
 - 🚀 Lead innovative SaaS solutions with AI and IoT integrations.
 - 🏆 Earn the **PMP® certification** to further validate my project management skills.
 - 📈 Contribute more to open-source projects and explore blockchain technologies.
+
+---
+
+## 💬 **Client & Colleague Testimonials**
+
+### Deen Doughouz  
+**CTO at Ultahost**  
+_Deen was Sabee’s client._  
+
+> _"Sabee led the team for a project I invested in, and he did an outstanding job. He managed the team with great communication, kept everything on track, and handled challenges with ease. Thanks to his leadership, the project was completed smoothly and on time. I’d highly recommend Sabee for any project leadership role!"_
+
+---
+
+### Shajeel ur Rehman  
+**Software Engineering Manager**  
+_Shajeel worked with Sabee on the same team._  
+
+> _"I had the opportunity to work closely with Sabee, who served as a Project Manager. In this role, he demonstrated exceptional leadership and project management skills, consistently ensuring successful project deliveries._  
+> _Sabee is a dedicated and proactive professional who excels in coordinating teams and managing project timelines. His strategic approach and attention to detail enable him to handle complex projects efficiently._  
+> _What sets Sabee apart is his strong communication skills and his capacity to foster a collaborative work environment. He is always approachable and willing to support his team, creating a positive and productive atmosphere._  
+> _Sabee’s commitment to excellence and his ability to deliver high-quality results on time make him an invaluable asset to any organization. I highly recommend Sabee for any project management role!"_
+
+---
+
+### Melvin Rios  
+**Business Development Expert**  
+_Melvin worked with Sabee on the same team._  
+
+> _"Sabee is an excellent team player. I worked a very short period of time with him but made a friend for life. The best ability about him is that he never loses his cool even in the most stressful situations!!!_  
+> _I would highly recommend Sabee for any leading role in an organization!"_
+
+---
+
+### Moeiz Tariq  
+**Software Engineer**  
+_Moeiz worked with Sabee on the same team._  
+
+> _"Sabee is a pleasure to work with. He stands out not just for his project management skills but also for his deep understanding of complex business. He demonstrates a keen ability to anticipate challenges, unearth actionable items, and align project goals with the direction of the business._  
+> _Most importantly, he excels in creating meaningful connections with cross-functional stakeholders. He is a professional, helpful, and positive person. It is a pleasure and honor to recommend Sabee to anyone who wants to hire him. He is truly a gem."_
+
+---
+
+### Muhammad Junaid Ikhlaq  
+**Senior Software Engineer**  
+_Muhammad Junaid reported directly to Sabee._  
+
+> _"I had the pleasure of working with Sabee Ur Rehman Khan, who was our Technical Project Manager at Septem Systems. Sabee's technical knowledge, paired with his ability to lead complex projects, truly made him a standout leader._  
+> _What actually impressed me about Sabee was his collaborative and friendly nature. He fosters an open and communicative team environment, always encouraging us to share ideas and contribute to the project's success. His calm and strategic approach to problem-solving made working with him both motivating and rewarding._  
+> _I highly recommend Sabee for any organization looking for a Technical Project Manager who can effectively bridge the gap between technical work and business objectives."_
+
+---
+
+### Syed Muzammil Hassan  
+**Associate Project Manager**  
+_Syed Muzammil reported directly to Sabee._  
+
+> _"Sabee Ur Rehman served as an exceptional mentor to me in his role as a Technical Project Manager. Under his guidance, I worked closely with him as an Associate Project Manager, learning from his vast expertise and insightful leadership._  
+> _Sabee’s mentorship was invaluable in shaping my project management skills. He consistently provided strategic direction while empowering me to take the initiative and develop solutions independently. His deep technical knowledge and his ability to easily manage complex projects made him an inspiring and effective leader._  
+> _I am grateful for his mentorship, which significantly contributed to my professional growth."_
