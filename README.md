@@ -68,7 +68,10 @@ My expertise empowers businesses to streamline operations, optimize project cycl
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=green" alt="Visitor Count" width="300" height="100">
 </div>
+
 
 ---
 
@@ -379,3 +382,6 @@ _Syed Muzammil reported directly to Sabee._
 > _"Sabee Ur Rehman served as an exceptional mentor to me in his role as a Technical Project Manager. Under his guidance, I worked closely with him as an Associate Project Manager, learning from his vast expertise and insightful leadership._  
 > _Sabee’s mentorship was invaluable in shaping my project management skills. He consistently provided strategic direction while empowering me to take the initiative and develop solutions independently. His deep technical knowledge and his ability to easily manage complex projects made him an inspiring and effective leader._  
 > _I am grateful for his mentorship, which significantly contributed to my professional growth."_
+
+
+
