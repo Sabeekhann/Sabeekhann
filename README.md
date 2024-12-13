@@ -64,17 +64,6 @@ My expertise empowers businesses to streamline operations, optimize project cycl
 
 ---
 
-### 📈 **GitHub Stats:**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=green" alt="Visitor Count" width="300" height="100">
-</div>
-
-
----
-
 ### 🌐 **Connect with Me**:
 
 <div align="center">
